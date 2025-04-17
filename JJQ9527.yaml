@@ -72,26 +72,27 @@ proxies:
   - {"name":"杜卡迪  | 巴西 01","server":"bra1.xiaoliyu.us","port":2056,"sni":"bra1.xiaoliyu.us","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f33b1568-cbb1-44d9-9222-31b2aef111c2"}
   - {"name":"杜卡迪  | 越南 01","server":"vn1.xiaoliyu.us","port":30220,"sni":"vn1.xiaoliyu.us","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f33b1568-cbb1-44d9-9222-31b2aef111c2"}
   - {"name":"杜卡迪  | 德国 01","server":"de1.xiaoliyu.us","port":2052,"sni":"de1.xiaoliyu.us","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f33b1568-cbb1-44d9-9222-31b2aef111c2"}
-  - { name: 新加坡1, server: xjp1.mangshe.xyz, port: 2055, sni: xjp1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 新加坡2, server: xjp2.mangshe.xyz, port: 2060, sni: xjp2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 美国1, server: mg1.mangshe.xyz, port: 2056, sni: mg1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 美国2, server: mg2.mangshe.xyz, port: 2056, sni: mg2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 美国3, server: mg3.mangshe.xyz, port: 2056, sni: mg2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 荷兰1, server: hl1.mangshe.xyz, port: 2056, sni: hl1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 意大利1, server: ydl1.mangshe.xyz, port: 2056, sni: ydl1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 迪拜, server: db1.mangshe.xyz, port: 2056, sni: db1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 伦敦, server: ld1.mangshe.xyz, port: 2056, sni: ld1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 纽伦堡1, server: nlb1.mangshe.xyz, port: 2056, sni: nlb1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 纽伦堡2, server: nlb2.mangshe.xyz, port: 2056, sni: nlb2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 纽伦堡3, server: nlb3.mangshe.xyz, port: 2056, sni: nlb3.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 纽伦堡4, server: nlb4.mangshe.xyz, port: 2056, sni: nlb4.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 法兰克福, server: flkf.mangshe.xyz, port: 2056, sni: flkf.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 凤凰城, server: fhc1.mangshe.xyz, port: 2056, sni: fhc1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 孟买, server: mm1.mangshe.xyz, port: 2056, sni: mm1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 孟买2, server: mm2.mangshe.xyz, port: 2056, sni: mm2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 海得拉巴, server: hdlb1.mangshe.xyz, port: 2056, sni: hdlb1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 春川1, server: cc1.mangshe.xyz, port: 2056, sni: cc1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-  - { name: 春川2, server: cc2.mangshe.xyz, port: 2056, sni: cc2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+  - {"name":"蟒蛇 |新加坡1","server":"xjp1.mangshe.xyz","port":2055,"sni":"xjp1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |新加坡2","server":"xjp2.mangshe.xyz","port":2060,"sni":"xjp2.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |美国1","server":"mg1.mangshe.xyz","port":2056,"sni":"mg1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |美国1","server":"mg1.mangshe.xyz","port":2056,"sni":"mg1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |美国2","server":"mg2.mangshe.xyz","port":2056,"sni":"mg2.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |美国3","server":"mg3.mangshe.xyz","port":2056,"sni":"mg2.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |荷兰","server":"hl1.mangshe.xyz","port":2056,"sni":"hl1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |意大利","server":"ydl1.mangshe.xyz","port":2056,"sni":"ydl1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |迪拜","server":"db1.mangshe.xyz","port":2056,"sni":"db1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |伦敦","server":"ld1.mangshe.xyz","port":2056,"sni":"ld1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |纽伦堡1","server":"nlb1.mangshe.xyz","port":2056,"sni":"nlb1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |纽伦堡2","server":"nlb2.mangshe.xyz","port":2056,"sni":"nlb2.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |纽伦堡3","server":"nlb3.mangshe.xyz","port":2056,"sni":"nlb3.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |纽伦堡4","server":"nlb4.mangshe.xyz","port":2056,"sni":"nlb4.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |法兰克福","server":"flkf.mangshe.xyz","port":2056,"sni":"flkf.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |凤凰城","server":"fhc1.mangshe.xyz","port":2056,"sni":"fhc1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |孟买","server":"mm1.mangshe.xyz","port":2056,"sni":"mm1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |孟买2","server":"mm2.mangshe.xyz","port":2056,"sni":"mm2.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |海得拉巴","server":"hdlb1.mangshe.xyz","port":2056,"sni":"hdlb1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |春川1","server":"cc1.mangshe.xyz","port":2056,"sni":"cc1.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
+  - {"name":"蟒蛇 |春川2","server":"cc2.mangshe.xyz","port":2056,"sni":"cc2.mangshe.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f1cf5965-340b-4961-9331-eaddf3a4bc60"}
   - {"name":"初云 | 香港 01","type":"vmess","server":"hka01.abcd24.cyou","port":25510,"uuid":"042b0562-678a-3f83-ac35-96b40d20eb3f","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/yXgjd2VK","headers":{"Host":"hka01.abcd24.cyou"}},"servername":"hka01.abcd24.cyou"}
   - {"name":"初云 | 香港 02","type":"vmess","server":"hk.cy-0823.top","port":20724,"uuid":"042b0562-678a-3f83-ac35-96b40d20eb3f","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/gred3435ts","headers":{"Host":"hk.cy-0823.top"}},"servername":"hk.cy-0823.top"}
   - {"name":"初云 | 香港 03","type":"vmess","server":"hkaa1.abcd24.cyou","port":20769,"uuid":"042b0562-678a-3f83-ac35-96b40d20eb3f","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/zGG6GeYN","headers":{"Host":"hkaa1.abcd24.cyou"}},"servername":"hkaa1.abcd24.cyou"}
