@@ -1,0 +1,21 @@
+proxies:
+    - { name: 新加坡1, server: xjp1.mangshe.xyz, port: 2055, sni: xjp1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 新加坡2, server: xjp2.mangshe.xyz, port: 2060, sni: xjp2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 美国1, server: mg1.mangshe.xyz, port: 2056, sni: mg1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 美国2, server: mg2.mangshe.xyz, port: 2056, sni: mg2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 美国3, server: mg3.mangshe.xyz, port: 2056, sni: mg2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 荷兰1, server: hl1.mangshe.xyz, port: 2056, sni: hl1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 意大利1, server: ydl1.mangshe.xyz, port: 2056, sni: ydl1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 迪拜, server: db1.mangshe.xyz, port: 2056, sni: db1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 伦敦, server: ld1.mangshe.xyz, port: 2056, sni: ld1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 纽伦堡1, server: nlb1.mangshe.xyz, port: 2056, sni: nlb1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 纽伦堡2, server: nlb2.mangshe.xyz, port: 2056, sni: nlb2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 纽伦堡3, server: nlb3.mangshe.xyz, port: 2056, sni: nlb3.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 纽伦堡4, server: nlb4.mangshe.xyz, port: 2056, sni: nlb4.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 法兰克福, server: flkf.mangshe.xyz, port: 2056, sni: flkf.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 凤凰城, server: fhc1.mangshe.xyz, port: 2056, sni: fhc1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 孟买, server: mm1.mangshe.xyz, port: 2056, sni: mm1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 孟买2, server: mm2.mangshe.xyz, port: 2056, sni: mm2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 海得拉巴, server: hdlb1.mangshe.xyz, port: 2056, sni: hdlb1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 春川1, server: cc1.mangshe.xyz, port: 2056, sni: cc1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
+    - { name: 春川2, server: cc2.mangshe.xyz, port: 2056, sni: cc2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
