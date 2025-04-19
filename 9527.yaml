@@ -48,7 +48,6 @@ proxies:
     - { name: 牛逼 & 下载&防失联, type: vmess, server: mugen22.6bnw.top, port: 8080, uuid: 75fbddf3-7565-4b24-b31a-aae9cb8f2e7e, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: '/?ed=2560', headers: { Host: buyvmus2.6bnw.top } }, ws-path: '/?ed=2560', ws-headers: { Host: buyvmus2.6bnw.top } }
     - { name: 牛逼 & 下载&防失联, type: vmess, server: mugen33.6bnw.top, port: 8080, uuid: 75fbddf3-7565-4b24-b31a-aae9cb8f2e7e, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: '/?ed=2560', headers: { Host: buyvmus2.6bnw.top } }, ws-path: '/?ed=2560', ws-headers: { Host: buyvmus2.6bnw.top } }
     - { name: 牛逼 & 下载&防失联, type: vmess, server: mugen44.6bnw.top, port: 8080, uuid: 75fbddf3-7565-4b24-b31a-aae9cb8f2e7e, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: '/?ed=2560', headers: { Host: buyvmus2.6bnw.top } }, ws-path: '/?ed=2560', ws-headers: { Host: buyvmus2.6bnw.top } }
-
     - { name: 蟒蛇 |新加坡1, server: xjp1.mangshe.xyz, port: 2055, sni: xjp1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
     - { name: 蟒蛇 |新加坡2, server: xjp2.mangshe.xyz, port: 2060, sni: xjp2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
     - { name: 蟒蛇 |美国1, server: mg1.mangshe.xyz, port: 2056, sni: mg1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
@@ -69,9 +68,6 @@ proxies:
     - { name: 蟒蛇 |海得拉巴, server: hdlb1.mangshe.xyz, port: 2056, sni: hdlb1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
     - { name: 蟒蛇 |春川1, server: cc1.mangshe.xyz, port: 2056, sni: cc1.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
     - { name: 蟒蛇 |春川2, server: cc2.mangshe.xyz, port: 2056, sni: cc2.mangshe.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f1cf5965-340b-4961-9331-eaddf3a4bc60 }
-    
-    
-   
     - { name: 杜卡迪 & 香港01, server: hk1.xiaoliyu.us, port: 2052, sni: hk1.xiaoliyu.us, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f33b1568-cbb1-44d9-9222-31b2aef111c2 }
     - { name: 杜卡迪 & 香港02, server: hk2.xiaoliyu.us, port: 2052, sni: hk2.xiaoliyu.us, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f33b1568-cbb1-44d9-9222-31b2aef111c2 }
     - { name: 杜卡迪 & 香港03, server: hk3.xiaoliyu.us, port: 2052, sni: hk3.xiaoliyu.us, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: f33b1568-cbb1-44d9-9222-31b2aef111c2 }
