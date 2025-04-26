@@ -93,3 +93,47 @@ proxies:
   - {"name":"杜卡迪  | 巴西 01","server":"bra1.xiaoliyu.us","port":2056,"sni":"bra1.xiaoliyu.us","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f33b1568-cbb1-44d9-9222-31b2aef111c2"}
   - {"name":"杜卡迪  | 越南 01","server":"vn1.xiaoliyu.us","port":30220,"sni":"vn1.xiaoliyu.us","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f33b1568-cbb1-44d9-9222-31b2aef111c2"}
   - {"name":"杜卡迪  | 德国 01","server":"de1.xiaoliyu.us","port":2052,"sni":"de1.xiaoliyu.us","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"f33b1568-cbb1-44d9-9222-31b2aef111c2"}
+  - {"name":"维云云 |  香港 01","type":"ss","server":"yy1.vyunyunnode.top","port":19002,"cipher":"2022-blake3-aes-128-gcm","password":"ZmE0ZTFkODJiMTA4YzU4Ng==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 02","type":"ss","server":"yy1.vyunyunnode.top","port":19006,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  香港 03","type":"ss","server":"yy1.vyunyunnode.top","port":19008,"cipher":"2022-blake3-aes-128-gcm","password":"ZmE0ZTFkODJiMTA4YzU4Ng==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 04","type":"ss","server":"yy3.vyunyunnode.top","port":19009,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  香港 05","type":"ss","server":"yy1.vyunyunnode.top","port":19023,"cipher":"2022-blake3-aes-128-gcm","password":"ZmE0ZTFkODJiMTA4YzU4Ng==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 06","type":"ss","server":"yy3.vyunyunnode.top","port":19025,"cipher":"2022-blake3-aes-128-gcm","password":"ZmE0ZTFkODJiMTA4YzU4Ng==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 07","type":"ss","server":"yy1.vyunyunnode.top","port":19026,"cipher":"2022-blake3-aes-128-gcm","password":"ZGYzODgzM2FkYjM2NmUxZA==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 08","type":"ss","server":"yy3.vyunyunnode.top","port":19027,"cipher":"2022-blake3-aes-128-gcm","password":"ZGYzODgzM2FkYjM2NmUxZA==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 09","type":"ss","server":"yy3.vyunyunnode.top","port":19750,"cipher":"2022-blake3-aes-128-gcm","password":"ZGYzODgzM2FkYjM2NmUxZA==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  香港 10","server":"aaaa.9800x3d.xyz","port":49000,"sni":"aaaa.9800x3d.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c"}
+  - {"name":"维云云 |  香港 11","server":"cccc.9800x3d.xyz","port":50000,"sni":"cccc.9800x3d.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c"}
+  - {"name":"维云云 |  香港 12","server":"dddd.9800x3d.xyz","port":50000,"sni":"dddd.9800x3d.xyz","up":1000,"down":1000,"skip-cert-verify":true,"type":"hysteria2","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c"}
+  - {"name":"维云云 |  新加坡 01","type":"ss","server":"yy1.vyunyunnode.top","port":19088,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  新加坡 02","type":"ss","server":"yy3.vyunyunnode.top","port":19003,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  新加坡 03","type":"ss","server":"yy1.vyunyunnode.top","port":19013,"cipher":"2022-blake3-aes-128-gcm","password":"OGRkY2Q5OGY5ZTIxZDkyYw==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  新加坡 04","type":"ss","server":"yy1.vyunyunnode.top","port":19017,"cipher":"2022-blake3-aes-128-gcm","password":"OGRkY2Q5OGY5ZTIxZDkyYw==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  新加坡 05","type":"trojan","server":"yy3.vyunyunnode.top","port":27801,"password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true,"sni":"sg11.vyunyunnode.top","skip-cert-verify":true}
+  - {"name":"维云云 |  新加坡 06","type":"trojan","server":"yy3.vyunyunnode.top","port":27802,"password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true,"sni":"yy3.vyunyunnode.top","skip-cert-verify":true}
+  - {"name":"维云云 |  日本 01","type":"ss","server":"yy1.vyunyunnode.top","port":19001,"cipher":"2022-blake3-aes-128-gcm","password":"NzE5OWFkYTQ1M2M5MjAxZQ==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  日本 02","type":"ss","server":"yy3.vyunyunnode.top","port":19010,"cipher":"2022-blake3-aes-128-gcm","password":"NzE5OWFkYTQ1M2M5MjAxZQ==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  日本 03","type":"ss","server":"yy1.vyunyunnode.top","port":19018,"cipher":"2022-blake3-aes-128-gcm","password":"NzE5OWFkYTQ1M2M5MjAxZQ==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  日本 04","type":"ss","server":"yy3.vyunyunnode.top","port":19066,"cipher":"2022-blake3-aes-128-gcm","password":"NzE5OWFkYTQ1M2M5MjAxZQ==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  阿根廷 01","type":"ss","server":"yy1.vyunyunnode.top","port":20025,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  澳门 01","type":"ss","server":"yy3.vyunyunnode.top","port":25802,"cipher":"2022-blake3-aes-128-gcm","password":"NTVhNTI0OTMzNGE5YzcyYQ==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  奥地利 01","type":"ss","server":"yy1.vyunyunnode.top","port":20113,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  冰岛 01","type":"ss","server":"yy1.vyunyunnode.top","port":12004,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  印尼 01","type":"ss","server":"yy1.vyunyunnode.top","port":20253,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  菲律宾 01","type":"ss","server":"yy1.vyunyunnode.top","port":18403,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  新西兰 01","type":"ss","server":"yy1.vyunyunnode.top","port":20022,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  韩国 01","type":"ss","server":"yy1.vyunyunnode.top","port":44113,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  法国 01","type":"ss","server":"yy1.vyunyunnode.top","port":35514,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  比利时 01","type":"ss","server":"yy1.vyunyunnode.top","port":20254,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  越南 01","type":"ss","server":"yy3.vyunyunnode.top","port":19501,"cipher":"2022-blake3-aes-128-gcm","password":"ZTNkYzNjNmZjYWE2Y2E5ZA==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  越南 02","type":"ss","server":"yy3.vyunyunnode.top","port":19502,"cipher":"2022-blake3-aes-128-gcm","password":"ZTNkYzNjNmZjYWE2Y2E5ZA==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  台湾 01","type":"ss","server":"yy1.vyunyunnode.top","port":19004,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  台湾 02","type":"ss","server":"yy3.vyunyunnode.top","port":19014,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  台湾 03","type":"ss","server":"yy1.vyunyunnode.top","port":19019,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  台湾 04","type":"ss","server":"yy3.vyunyunnode.top","port":30081,"cipher":"2022-blake3-aes-128-gcm","password":"ZjljOTNlMzhhMjFmYTlhMg==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  美国 01","type":"ss","server":"yy1.vyunyunnode.top","port":19005,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  美国 02","type":"ss","server":"yy3.vyunyunnode.top","port":19015,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  美国 03","type":"ss","server":"yy1.vyunyunnode.top","port":19020,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  美国 04","type":"ss","server":"yy1.vyunyunnode.top","port":19791,"cipher":"2022-blake3-aes-128-gcm","password":"OTBlOGMzMjFhNWIzZWU5OQ==:NzBiNmQzNWItNjhkYy00Yw==","udp":true}
+  - {"name":"维云云 |  英国 01","type":"ss","server":"yy1.vyunyunnode.top","port":19021,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
+  - {"name":"维云云 |  英国 02","type":"ss","server":"yy1.vyunyunnode.top","port":19022,"cipher":"chacha20-ietf-poly1305","password":"70b6d35b-68dc-4cfe-8225-15c36c31b04c","udp":true}
