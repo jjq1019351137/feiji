@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,trae
 DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,byteoversea
 # 域名后缀匹配
+DOMAIN-SUFFIX,augmentcode.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,byteoversea.com
