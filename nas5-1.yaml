@@ -196,3 +196,5 @@ proxies:
   - {"name":"出云 | 新加坡海外专用","type":"trojan","server":"xjhw-zl.cy-0823.top","port":35551,"password":"042b0562-678a-3f83-ac35-96b40d20eb3f","sni":"xjhw-zl.cy-0823.top","udp":true}
   - {"name":"出云 | 美国海外专用","type":"vmess","server":"xjhwmg-zl.cy-0823.top","port":35552,"uuid":"042b0562-678a-3f83-ac35-96b40d20eb3f","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/y75T9dsd","headers":{"Host":"xjhwmg-zl.cy-0823.top"}}}
   - {"name":"出云 | 美国海外专用02","type":"vmess","server":"104.36.84.73","port":20726,"uuid":"042b0562-678a-3f83-ac35-96b40d20eb3f","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/vedbvew","headers":{"Host":"104.36.84.73"}},"servername":"104.36.84.73"}
+
+
